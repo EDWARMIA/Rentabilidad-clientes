@@ -1,0 +1,349 @@
+﻿ID_Cliente;Nombre_Cliente;Ciudad;Codigo_Postal;Estado_Provincia;ID_Sector;Pais_Codigo;Pais;Sector_ES;Estado_Sector;Sector_Analisis;Estado_Catalogo_Cliente
+10000;Globo-Chem;Chicago;60601;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10001;SNC Directly to America;Westchester;60154;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10002;GHG;Plano;75024;TX;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10003;ABC Helicopter;Fort Worth;76177;TX;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+10005;GAM Neuro;South Bend;46617;IN;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+10006;Sourced Out;Chestbrook;19087;PA;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+10007;Processes Inc;Foster City;94404;CA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10008;Cadams USA;EI Paso;79998;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10009;Noca Gas;Irving;75063;TX;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+10010;PDP;Falls Church;22042;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10011;EBU Ideals;Battlecreek;49017;MI;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+10012;ONJI LTD;St Louis;63146;MO;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10013;Keedsler Motors;Ellicott City;;MD;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10015;Axis Chemical Co.;San Jose;95138;CA;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+10016;Rouster and Sideways;Mason;45040;OH;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10017;Initrode;Melville;11747;NY;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10018;ONESYNE Labs LP;Alexandria;22314;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+10019;ProStaffing;Plano;75024;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10020;Creek and Company;Waupaca;54981;WI;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10021;CAKS;Anchorage;99503;AK;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+10022;DND;Irving;75038;TX;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10023;Corrigan and Partners;DALLAS;75247;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10024;NYT Troupe;New York;10018;NY;25;US;Estados Unidos;Industria papelera;Sector identificado;Industria papelera;Presente en catálogo
+10026;Smith and Co.;Juno Beach;33408;FL;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+10027;QWERTY Logistics;AAAAAAA;11111;TX;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+10028;Nevali Group;DALLAS;75254;TX;17;US;Estados Unidos;Materiales;Sector identificado;Materiales;Presente en catálogo
+10029;Bueno Gallo Inc;Wheaton;60187;IL;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10030;Jobargo;St Louis;63114;MO;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10031;Postal Wash;Washington DC;20071;VA;25;US;Estados Unidos;Industria papelera;Sector identificado;Industria papelera;Presente en catálogo
+10032;Parrots and Peacocks;Canonsburg;15317;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10033;Help me See LLC;Mason;45040;OH;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10034;EBU Technology;Alexandria;22310;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+10035;Venkman Co;Powhatan Point;43942;OH;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+10036;Horn BPO;Fremont;94555;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10037;A Dog's Staff;Mason;45040;OH;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+10040;Ports of the NorthEast;Jersey City;7302;NJ;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10045;Nice Guys Services;Schaumberg;60173;IL;8;US;Estados Unidos;Distribución;Sector identificado;Distribución;Presente en catálogo
+10050;The Frying Dutchman;Oklahoma City;73102;OK;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+10051;Chez Quis;Sunnyvale;94086;CA;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+10053;Snapper Turtles;Plano;75024;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10054;ABISCAS LTD;Canonsburg;15317;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10055;Extensive Enterprise;Greensboro;27410;NC;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+10060;Soneli Graphics;Fremont;94538;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10061;XIXI;Richmond;23220;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10062;General Services Corporation;San Jose;;CA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10063;Local Services Group;Powhatan Point;;OH;21;US;Estados Unidos;Minería;Sector identificado;Minería;Presente en catálogo
+10084;Opazel;Lewisville;;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10085;Austin Music Club;Plano;75086;TX;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10090;PacWaters Drifting;Houston;77056;TX;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+10091;Sunny Waters;West Palm Beach;33406;FL;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+10092;City of Springfield;San Diego;92101;CA;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10093;Bullseye;Minneapolis;55403;MN;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10094;Bahlli Consulting;St. Paul;55117;MN;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10095;Thatherton Fuels;Pittsburgh;15222;PA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10096;GCI;Richmond;23219;VA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10097;Present Networks;Ridgeland;39157;MS;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+10100;Tip Top Cafe;Atchison;66002;KS;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10105;Turning and Lender;Woodcliff Lake;7677;NJ;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10110;Kings Group;Spokane;99224;WA;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+10111;Korman Technology;Chandler;;AZ;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+10112;Tip Top Cafe;Atchison;66002;KS;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10113;Vandelay Industries;Omaha;68131;NE;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10114;SNC Downers Grove;Downers Grove;60515;NE;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10115;Cincy Computers;Cincinnati;;OH;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10116;The New Firm;Orlando;32801;FL;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10120;Wernham Hogg;Omaha;68131;NE;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10125;Sacramento Sourcing;California;;CA;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10126;Videlectrix;California;;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10130;Label Solutions;Fort Pierce;34982;FL;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10131;SNC Sydney;Irving;75038;TX;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+10132;BINI Pharmaceutical;Columbia;29203;SC;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+10134;Initech;Chicago;60633;IL;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10135;Sallbet Consultants;Naperville;60563;IL;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+10136;Musion and Phillips;Pittsburgh;15222;PA;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10137;Sharper Bends;Alexandria;22302;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10138;Clinton's Rub LP;Trevose;19053;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10139;Wentworth Industries;Lehigh Valley;18002;PA;12;US;Estados Unidos;Servicios financieros;Sector identificado;Servicios financieros;Presente en catálogo
+10140;BINI Pharmaceutical;Columbia;29203;SC;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10141;Interstate Services;Northbrook;60062;IL;16;US;Estados Unidos;Seguros;Sector identificado;Seguros;Presente en catálogo
+10142;EBU Energy;Alkexandria;22310;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+10143;Minuteman Cafe;Miami Beach;33139;FL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10144;Grenteris;Billerica;1821;MA;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10145;Milliways;Miami Beach;33139;FL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10150;Pheonix Rails;Forth Worth;76131;TX;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+10151;SNC Path;Newton Square;19073;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10152;Philo Projects;Lakewood Ranch, Sarasota;34240;FL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10153;Scoila Inc;Friedens;15541;PA;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+10155;123 Warehousing;Chicago;60602;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10156;Bully Sports;Irving;75038;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10157;Mexerbio;Durham;27712;NC;5;US;Estados Unidos;Biotecnología;Sector identificado;Biotecnología;Presente en catálogo
+10160;SCCA County;San Jose;95110;CA;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+10161;CCD Bottling Co;Charlotte;28211;NC;4;US;Estados Unidos;Bebidas;Sector identificado;Bebidas;Presente en catálogo
+10162;Chonic Pain Foundation;Los Angeles;90028;CA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10163;TRP Corp;Palm Beach Gardens;33410;FL;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10164;Strong Land Co.;St. Louis;63105;MO;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10165;Taggart Transcontinental;Corte Madera;94925;CA;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10166;Analyze This LP;Montvale;7645;NJ;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10167;Demo, inc.;Plymouth;48170;MI;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+10170;Resource Development;Alpharetta;30005;GA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10171;Carsy and Lime;Charlotte;28281;NC;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10172;ULTRA Undertakings;Bolingbrook;60440;IL;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10173;ChemTec;Gastonia;;NC;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10174;Water and Power;Houston;77072;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+10175;Compuglobalhypermeganet;New York;10167;NY;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10177;Pleggios;Henderson;89074;NV;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10178;Nerve Company;Newport Beach;92660;CA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10179;Sample Company;Valhalla;10595;NY;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10180;Tetris Group;Denton;76207;TX;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10181;Uncle Joey's Café;Monrovia;91016;CA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10185;Company Windows;Lanham;20786;MD;8;US;Estados Unidos;Distribución;Sector identificado;Distribución;Presente en catálogo
+10186;Connect the Chain Inc;Indianapolis;46225;IN;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10187;REY REY LP;Winston-Salem;27101;NC;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10188;Costa Costa in Country;Martinez;94553;CA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10190;Megadodo Publications;Irving;75038;TX;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+10195;Skirpa, Skirpa and Skirpa;Overland Park;66213;KS;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10196;ABC Telecom;Richardson;75080;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10197;Valinik;San Diego;92121;CA;19;US;Estados Unidos;Dispositivos médicos;Sector identificado;Dispositivos médicos;Presente en catálogo
+10198;Burleigh and Stronginthearm;San Antonio;;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10199;Dunder Mifflin;New York;10017;NY;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10200;Vertigo Systems;Indianapolis;46204;IN;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10201;McMahon and Tate;New York City;10018;NY;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10202;Therapy Group;Silver Spring;20910;MD;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+10203;SDI Design;Denver;80222;CO;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10204;Foo Bars;St Louis;63102;MO;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10205;Sixty Second Avenue;Columbus;43230;OH;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10206;Swirva;Reston;20190;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10210;Petrox Oil Company;Uxbridge;1569;MA;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10215;Globex Corporation;Reston;20190;VA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10216;Neward and Benson;Richmond;23219;VA;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+10217;SNC Public;North Tower;20004;DC;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10218;CAKS Local Services;Fairfax;22031;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10219;Avariana LTD;Seattle;98101;WA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10220;SONO Shoes;Sanata Monica;90404;CA;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+10225;McLittle Consulting Co;Pittsburgh;15222;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10226;Flowers By Irene;Pittsburgh;15222;PA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10227;DONOTUSE - TrotterTires;Findlay;14205;OH;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10228;California Chems Co.;Jacksonville;32246;FL;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+10229;Hooper Tires;Findlay;45840;OH;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+10231;Identities Born LLC;Riverside;92507;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+10233;True Chems LLC;Middlebury;6749;CT;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+10234;Atlantic Northern;Houston;77098;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10235;Battan, LLC;Vienna;22182;VA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+10237;Tessier-Ashpool;DALLAS;75254;TX;17;US;Estados Unidos;Materiales;Sector identificado;Materiales;Presente en catálogo
+10240;Ugen LLC;New York;10105;NY;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+10241;Duff Brewing Company;Irving;;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50000;KON/PLD;Chicago;60601;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50001;Gauge Metrics;New York;10004;NY;16;US;Estados Unidos;Seguros;Sector identificado;Seguros;Presente en catálogo
+50002;Vanerva;Lynchburgh;;VA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50003;Seashore Systems;Arlington;22203;VA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50004;Metratrack;Reston;20190;VA;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50005;Mary Begs Co;Reston;20190;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+50006;Blades;Reston;20190;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+50007;WOLK Works;Reston;20190;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+50008;Red, White and Blue;St. Louis;;MO;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50009;Cavanet;Phoenix;85034;AZ;8;US;Estados Unidos;Distribución;Sector identificado;Distribución;Presente en catálogo
+50010;Can't Buy Better;Minneapolis;;MN;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+50011;PTC;Skillman;8558;NJ;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50012;Car Grills LLC;Hopkins;55343;MN;2;US;Estados Unidos;Agricultura;Sector identificado;Agricultura;Presente en catálogo
+50013;Dan's Food Co.;DALLAS;75202;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50014;Acme, inc.;Novato;94549;CA;16;US;Estados Unidos;Seguros;Sector identificado;Seguros;Presente en catálogo
+50015;ZiffCorp;Troy;48098;MI;12;US;Estados Unidos;Servicios financieros;Sector identificado;Servicios financieros;Presente en catálogo
+50016;Mammoth Pictures;Kansas City;64101;MO;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+50017;Cogswell Cogs;Santa Ana;92705;CA;8;US;Estados Unidos;Distribución;Sector identificado;Distribución;Presente en catálogo
+50018;Roboto Industries;Skillman;;NJ;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50019;Niagular;Bethesda;20817;MD;14;US;Estados Unidos;Hotelería;Sector identificado;Hotelería;Presente en catálogo
+50020;Numivia;Irving;75039;TX;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50021;SeaShell Oil Cleanup;Houston;77002;TX;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+50022;Maggies Machines;St.Louis;;MO;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50023;Square and Circle Pharma;San Diego;92127;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50024;Bright Chem LLP;Cincinnati;45232;OH;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50025;Korsici;Stratford;6615;CT;1;US;Estados Unidos;Aeroespacial y defensa;Sector identificado;Aeroespacial y defensa;Presente en catálogo
+50026;Solely Shoes;Newport News;;VA;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+50027;Ziffer Chemicals;Frazer;19355;PA;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50028;Chevy's in Texas;Walnut Creek;94597;CA;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+50029;Fake Brothers;Juno Beach;33408;FL;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50030;Niger National;Southlake;76092;TX;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+50031;DND;Irving;75063;TX;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+50032;C.H. Lavatory and Sons;Houston;77010;TX;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50033;Korman Partners;Chandler;85248;AZ;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+50034;NYT Troupe;New York;;NY;25;US;Estados Unidos;Industria papelera;Sector identificado;Industria papelera;Presente en catálogo
+50035;ULA Associates;Denver;;CO;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50036;Venkman Co;Powhatan Point;43942;OH;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50037;Potts;Columbus;;OH;2;US;Estados Unidos;Agricultura;Sector identificado;Agricultura;Presente en catálogo
+50038;Widget Corp;Perrysburg;43551;OH;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50039;Chotchkies;OKC;73102;OK;23;US;Estados Unidos;Petróleo y gas;Sector identificado;Petróleo y gas;Presente en catálogo
+50040;Venting Systems;DALLAS;75211;TX;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50041;Big T Burgers and Fries;DALLAS;75244;TX;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+50044;AppleBoys;Foster City;94404;CA;5;US;Estados Unidos;Biotecnología;Sector identificado;Biotecnología;Presente en catálogo
+50045;Perception LP;AAAAAAA;11111;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50049;Blammo;DALLAS;75234;TX;29;US;Estados Unidos;Semiconductores;Sector identificado;Semiconductores;Presente en catálogo
+50050;Blammo;DALLAS;75234;TX;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50053;ONESYNE Labs LP;Alexandria;22314;VA;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+50054;Sips;Chicago;11111;IL;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50055;Sips;Plano;75024;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50057;Under the Bridge;AAAAAAA;11111;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50058;Demo Company;Juno Beach;11111;FL;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50060;Kumatsu Motors;Morristown;7960;NJ;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50065;Sample, inc;Plano;75024;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50066;The Krusty Krab;Sacramento;95816;CA;25;US;Estados Unidos;Industria papelera;Sector identificado;Industria papelera;Presente en catálogo
+50070;CFD Doubleton;Houston;77056;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50071;National UNTC;New York;11203;NY;22;US;Estados Unidos;Organizaciones sin fines de lucro;Sector identificado;Organizaciones sin fines de lucro;Presente en catálogo
+50072;City of Springfield;Brooklyn;11201;NY;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50073;Spurly, Spurly and Spurly;Washington;20004;DC;12;US;Estados Unidos;Servicios financieros;Sector identificado;Servicios financieros;Presente en catálogo
+50074;Whipple LP;Benton Harbor;49022;MI;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50075;Chasers;Milwaukee;53208;WI;4;US;Estados Unidos;Bebidas;Sector identificado;Bebidas;Presente en catálogo
+50081;MG Kelso;Atlanta;;GA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50082;Harton;Salisbury;;MD;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50083;MAD Company;Decatur,;62523;IL;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50085;Sonky Rubber Goods;Battle Creek;49017;MI;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50090;Galaxy Corp;Greensboro;27410;NC;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+50095;Cosico Sun;San Jose;95134;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50097;Ziffer;Great Valley;;PA;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50098;Pheonix Rails;Fort Worth;;TX;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50099;Rimmion Runners;Richmond;23220;VA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50100;Allied Biscuit;Detroit;;MI;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+50101;WOWKOW;Saginaw;48603;MI;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50106;Flip the Page LLC;Miamisburg;45342;OH;25;US;Estados Unidos;Industria papelera;Sector identificado;Industria papelera;Presente en catálogo
+50107;Metratrack;Reston;20190;VA;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50108;Cities of  Virginia;Richmond;23219;VA;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50109;Present Networks;Ridgeland;39157;MS;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50110;Katy;Sanford;27332;NC;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50115;Monks Diner;Evansville;47721;IN;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50116;Data Systems;Chicago;60601;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50120;Globo Gym American Corp;Houston;77010;TX;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50125;Liliport LP;Akron;;OH;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+50126;Philly Medical;Natick;;MA;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50127;MOKATO;Joplin;64801;MO;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+50128;SNC Downers Grove;Downers Grove;60515;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50129;Gadgetron;Omaha;68131;NE;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+50130;Sweno of Illinois;Perrysburg;;OH;15;US;Estados Unidos;Industria;Sector identificado;Industria;Presente en catálogo
+50131;Lovelling Inc;Fort Lee;7024;NJ;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50132;Addrenaline;Atlanta;30322;GA;4;US;Estados Unidos;Bebidas;Sector identificado;Bebidas;Presente en catálogo
+50133;GGE;San Francisco;;CA;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+50134;Mits Power;Orlando;32809;FL;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+50135;Pac Underwater Drilling;Omaha;68179;NE;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50136;Dark Pets Inc;The Woodlands;;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50140;Transworld Consortium;Hershey;17033;PA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50141;Label Solutions;DALLAS;;TX;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50145;SNC Sydney;Canberra ACT;75012;TX;11;US;Estados Unidos;Departamento de Defensa;Sector identificado;Departamento de Defensa;Presente en catálogo
+50146;Stilts and Shots;Tucson;85706;AZ;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50147;Trees and Bushes LTD;St. Louis;63124;MO;4;US;Estados Unidos;Bebidas;Sector identificado;Bebidas;Presente en catálogo
+50148;Pompusili;Center Valley;18034;PA;18;US;Estados Unidos;Medios de comunicación;Sector identificado;Medios de comunicación;Presente en catálogo
+50149;Teckman;Mt. View;94035;CA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50150;Blue Moons Inn;Phoenix;85016;AZ;14;US;Estados Unidos;Hotelería;Sector identificado;Hotelería;Presente en catálogo
+50151;Neworth Boards;Greenwood Village;80111;CO;21;US;Estados Unidos;Minería;Sector identificado;Minería;Presente en catálogo
+50152;PPB Bracks;Philadelphia;19103;PA;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50153;Wayne Enterprises;Florham Park;7005;NJ;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50154;Opal Enterprises;Burlington;1803;MA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50155;Pavel School District;Jacksonville;32207;FL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50156;Global Computing;Reston;20190;VA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50160;Water and Power;Houston;77072;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50161;Jump Off It, N.A.;St. Louis;63146;MO;2;US;Estados Unidos;Agricultura;Sector identificado;Agricultura;Presente en catálogo
+50162;Charles Townsend Agency;Orlando;32825;FL;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50163;Castem Co;Philadelphia;19103;PA;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50164;SNC Path;Newton Square;19073;PA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50165;Straza Astena;Wilmington;19850;DE;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50166;Scunder Consulting;Santa Clara;95051;CA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50167;Momentum;Columbus;43215;OH;6;US;Estados Unidos;Industria química;Sector identificado;Industria química;Presente en catálogo
+50170;MECM;Scarsdale;10583;NY;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50175;PonDeMon;Wilmington;19805;DE;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50176;Truliant;Richmond;23230;VA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50177;PILA;DALLAS;;TX;4;US;Estados Unidos;Bebidas;Sector identificado;Bebidas;Presente en catálogo
+50180;Denver Trans;Denver;80222;CO;34;US;Estados Unidos;Transporte;Sector identificado;Transporte;Presente en catálogo
+50181;Botta;Waukegan;60085;IL;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50182;Millenium Hooks;Monroe;71203;LA;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50183;American Trust Bank;Charlotte;28255;NC;12;US;Estados Unidos;Servicios financieros;Sector identificado;Servicios financieros;Presente en catálogo
+50184;Gringotts;Novi;48377;MI;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50185;Gokart;San Martin;95046;CA;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+50190;Hunter and Hunter;San Antonio;78204;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50191;Acme Corp;Princeton;8540;NJ;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50192;Devon Energy;Oklahoma City;73102;OK;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50193;Mooby Corp;Menomonee Falls;53051;WI;3;US;Estados Unidos;Automotriz;Sector identificado;Automotriz;Presente en catálogo
+50194;ANJIKO;Irving;;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50195;KloKlo Partners;Irving;;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50196;SpringShield;Iselin;8830;NJ;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50200;LKLLD;Overland Park;66213;KS;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50201;Selement;Tarrytown;10591;NY;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50202;Roxxon;Denver;80203;CO;32;US;Estados Unidos;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50203;Western Landscaping;Hershey;17033;PA;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+50204;Universal Export;Hershey;17033;PA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50205;Ansofini LLC;Bridgewater;8807;NJ;26;US;Estados Unidos;Industria farmacéutica;Sector identificado;Industria farmacéutica;Presente en catálogo
+50207;Flamingo Consulting;Torrance;90505;CA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50208;Raleigh Resources;Raleigh;27612;NC;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50209;Coinstellations;Bellevue;98004;WA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50210;Scarcoft;New Orleans;70129;LA;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+50211;FABS Constructing;Southfield;48033;MI;17;US;Estados Unidos;Materiales;Sector identificado;Materiales;Presente en catálogo
+50212;Powell Motors;DALLAS;75201;TX;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50213;Mainway Toys;Portland;97209;OR;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50215;Rivisult;Temple;85281;AZ;35;US;Estados Unidos;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+50220;Helix LLC;Lisle;60532;IL;17;US;Estados Unidos;Materiales;Sector identificado;Materiales;Presente en catálogo
+50221;CCP Lips;Bartlesville;74003;OK;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50222;Simbici LLC;Pittsfield;1201;MA;17;US;Estados Unidos;Materiales;Sector identificado;Materiales;Presente en catálogo
+50223;Kingston and Group;DALLAS;;TX;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50224;Pittsburgh Partners;Harrisburg;;PA;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50225;St. Anky Beer;Latrobe;15650;PA;20;US;Estados Unidos;Metales;Sector identificado;Metales;Presente en catálogo
+50227;Scornette Group;Greenville;29615;SC;13;US;Estados Unidos;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50228;Black Waters Corp;Los Angeles;;CA;9;US;Estados Unidos;Energía;Sector identificado;Energía;Presente en catálogo
+50230;Protecting the Border;Washington;20229;DC;10;US;Estados Unidos;Gobierno federal civil;Sector identificado;Gobierno federal civil;Presente en catálogo
+50231;Osato Chemicals;Pittsburgh;15222;PA;7;US;Estados Unidos;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+50234;Industrial Automation;The Woodlands;77380;TX;30;US;Estados Unidos;Servicios;Sector identificado;Servicios;Presente en catálogo
+100001;The Legitimate Businessmens Club;Pittsburgh;15222;PA;28;US;Estados Unidos;Comercio minorista;Sector identificado;Comercio minorista;Presente en catálogo
+1023;Spade and Archer;Irving;75038;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+10014;Krustyco;Scottsdale;;AZ;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+10176;Klimpys;Plano;75024;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50042;Bad Brother LLC;Plano;75024;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50046;Blammo;DALLAS;75234;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50047;Blammo;DALLAS;75234;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50048;Blammo;DALLAS;75234;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50051;Blammo;DALLAS;75234;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50052;Blammo;DALLAS;75234;TX;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50080;Mauve Ware;Palo Alto;94304;CA;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50086;AppleNets;Remote;;CA;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50096;COMP DDK;Islandia;11749;NY;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+50105;Central Perk;Issaquah;98029;WA;31;US;Estados Unidos;;ID sin correspondencia;Sector sin identificar;Presente en catálogo
+1000;Cliente sin identificar (ID 1000);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1001;Cliente sin identificar (ID 1001);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1002;Cliente sin identificar (ID 1002);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1004;Cliente sin identificar (ID 1004);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1009;Cliente sin identificar (ID 1009);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1010;Cliente sin identificar (ID 1010);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1015;Cliente sin identificar (ID 1015);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1017;Cliente sin identificar (ID 1017);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1022;Cliente sin identificar (ID 1022);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1024;Cliente sin identificar (ID 1024);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1025;Cliente sin identificar (ID 1025);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1031;Cliente sin identificar (ID 1031);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1032;Cliente sin identificar (ID 1032);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1034;Cliente sin identificar (ID 1034);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1035;Cliente sin identificar (ID 1035);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1041;Cliente sin identificar (ID 1041);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1042;Cliente sin identificar (ID 1042);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1044;Cliente sin identificar (ID 1044);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1045;Cliente sin identificar (ID 1045);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+1052;Cliente sin identificar (ID 1052);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+10004;Mr. Sparkle;Toronto;;ON;30;CA;Canadá;Servicios;Sector identificado;Servicios;Presente en catálogo
+10025;SNC Toronto;Toronto;;ON;30;CA;Canadá;Servicios;Sector identificado;Servicios;Presente en catálogo
+10052;Cliente sin identificar (ID 10052);;;;;;;;Cliente ausente del catálogo;Sector sin identificar;Ausente del catálogo de trabajo
+10133;Monarch Playing Card Co.;Uxbridge;;MX;7;GB;GB;Bienes de consumo envasados;Sector identificado;Bienes de consumo envasados;Presente en catálogo
+10230;Decore Design;Winnipeg;;MB;30;CA;Canadá;Servicios;Sector identificado;Servicios;Presente en catálogo
+10232;OSI Canada;Toronto,;;MB;30;CA;Canadá;Servicios;Sector identificado;Servicios;Presente en catálogo
+10236;OSI Australia;Sydney;2000;NSW;30;AU;AU;Servicios;Sector identificado;Servicios;Presente en catálogo
+50043;Mr. Sparkle;Toronto;;ON;35;CA;Canadá;Servicios públicos;Sector identificado;Servicios públicos;Presente en catálogo
+50056;Montreal Railway;AAAAAAA;;ON;34;CA;Canadá;Transporte;Sector identificado;Transporte;Presente en catálogo
+50059;Primertel;Toronto, Ontario;;ON;32;CA;Canadá;Telecomunicaciones;Sector identificado;Telecomunicaciones;Presente en catálogo
+50206;Zevo Toys;Winnipeg;;MB;13;CA;Canadá;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50232;Ajax;Markham;;ON;13;CA;Canadá;Alta tecnología;Sector identificado;Alta tecnología;Presente en catálogo
+50233;SDI Design;Winnipeg;;MB;30;CA;Canadá;Servicios;Sector identificado;Servicios;Presente en catálogo
+50235;AEQ;Macquarie;2113;NSW;30;AU;AU;Servicios;Sector identificado;Servicios;Presente en catálogo

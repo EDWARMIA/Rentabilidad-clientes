@@ -1,0 +1,12 @@
+# Archivos temporales
+~$*
+*.tmp
+
+# Configuración y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
